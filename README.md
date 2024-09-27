@@ -1,3 +1,3 @@
 # first-
 try try <br>
-author : prithviraj andhale 
+author : prithviraj andhale [prithvi]
